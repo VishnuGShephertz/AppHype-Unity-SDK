@@ -1,5 +1,6 @@
-AppHypeSDK
+AppHype Unity Android SDK
 ==========
+Cuurently only Android Plugin is available on Unity.
 
 # About AppHype Ad SDK Version 1.0
 
@@ -7,15 +8,15 @@ AppHypeSDK
 2. Leads a developer to earn stacks of money by serving a targeted ad that a user wants to see.
 3. Offers a solution to the Advertiser by showcasing their Ads to an app user.
 4. Read complete [API Documentation](http://50.112.109.96:8080/docs) on AppHype Ad Network Guide.
-5. A complete [Turtorial](http://50.112.109.96:8080/tutorial-android), How you can integrate it in your Existing Android Application.
+5. A complete [Turtorial](http://50.112.109.96:8080/tutorial-unity), How you can integrate it in your existing unity Android application.
 
 # Running Ad Sample
 
 1. [Register](http://50.112.109.96:8080/login) with AppHype platform.
 2. If you are already registered, login to [AppHype] (http://50.112.109.96:8080/login/index).
-3. 3. After you have successfully logged in, create an Android App by entering app details.
+3. After you have successfully logged in, create an Android App by entering app details.
 4. Download  AppHype Android [SDK] (https://github.com/VishnuGShephertz/AppHypeSDK/tree/AppHype-Version-1.0/archive/master.zip)
-5. Import the Sample Application in Eclipse from SDK.
+5. Opne Unity Package in unity.
 5. Open the SampleAppActivity.java file of sample project and make the following changes.
 
 ```
@@ -27,7 +28,7 @@ A. Replace Apphype-Api-Keys and Apphype-Secret-Keys that you have received in st
 
 # Android AppHype SDK Integration
 
-__1 Download AppHype [SDK] (https://github.com/VishnuGShephertz/AppHypeSDK/tree/AppHype-Version-1.0/archive/master.zip)__
+__1 Download AppHype [SDK] (https://github.com/VishnuGShephertz/AppHype-Unity-SDK/edit/AppHypeUnity-Versio1.0/archive/master.zip)__
 
 
 __2 Modify Android Manifest__ Chnage the Application package name with the App Package you have created on AppHype Console on Above Step.
