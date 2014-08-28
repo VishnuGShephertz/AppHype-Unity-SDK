@@ -24,7 +24,7 @@ AppHype Unity Android Plugin
 
 # To use AppHype SDK in your existing Android Unity Application
 
-[DownLoad Unity Android SDK] (https://github.com/VishnuGShephertz/AppHype-Unity-SDK/tree/AppHypeUnity-Versio1.0/archive/master.zip)__
+[DownLoad Unity Android SDK] (https://github.com/VishnuGShephertz/AppHype-Unity-SDK/tree/AppHypeUnity-Versio1.0/archive/master.zip)
 
 2. Click on Assets and import AppHype Unity package in your unity Application
 
