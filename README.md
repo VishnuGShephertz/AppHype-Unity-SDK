@@ -32,7 +32,7 @@ AppHype Unity Android Plugin
 <pre>
 package="Your Application Package"  
 </pre>
-4. Copy the code given below in AndroidManifest.xml
+__4.__ Copy the code given below in AndroidManifest.xml
 
 ```
        //Add Android Permissions  
