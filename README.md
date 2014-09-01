@@ -31,8 +31,10 @@ AppHype Unity Android Plugin
 3. Change package name of Sample Application under plugins/Android folder and bundleIdentifier in player settings option with your application package name created in step 4.
 ```
 package="Your Application Package"  
-
 ```
+4. Copy the code given below in AndroidManifest.xml
+
+
 4. Copy the code given below in AndroidManifest.xml
 
 ```
