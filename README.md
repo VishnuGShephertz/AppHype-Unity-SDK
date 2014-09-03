@@ -5,7 +5,7 @@ AppHype Unity Android Plugin
 2. Leads a developer to earn stacks of money by serving a targeted ad that a user wants to see.
 3. Offers a solution to the Advertiser by showcasing their Ads to an app user.
 4. Read complete [API Documentation](http://apphype.shephertz.com/docs) on AppHype Ad Network Guide.
-5. A complete [Turtorial](http://apphype.shephertz.com/tutorial-android), How you can integrate it in your Existing Android Application.
+5. A complete [Turtorial](http://apphype.shephertz.com/tutorial-unity), How you can integrate it in your Existing Android Application.
 
 # Running Ad Sample
 
