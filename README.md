@@ -14,7 +14,7 @@ AppHype Unity Android Plugin
 3. Create [Cross Promotion Campaign ](http://apphype.shephertz.com/app/apps#/createPromo)of the added App(s) to promote it in other App(s) 
 4. Now, create another App(s) by adding it on [Create App ](http://apphype.shephertz.com/app/apps#/addApp)in which you wish to cross promote
 5. You will get [Application Keys](http://apphype.shephertz.com/app/apps#/all) after App creation for SDK integration, which will be needed to initialize AppHype SDK
-6. [DownLoad Unity Android SDK] (https://github.com/VishnuGShephertz/AppHype-Unity-SDK/tree/AppHypeUnity-Versio1.0/archive/master.zip) with Sample Application.
+6. [DownLoad Unity Android SDK] (https://github.com/VishnuGShephertz/AppHype-Unity-SDK/archive/AppHypeUnity-Versio1.0.zip) with Sample Application.
 7. Import AppHype Unity Package in your Unity project
 8. Change package name of Sample Application under plugins/Android folder and bundleIdentifier in player settings option with your application package name created in step 4. 
 9. Put your API and Secret Key of the App created in step 4 in plugins/AppHype/Demo/AppHypeSample.cs file no 66 and 67.
@@ -24,7 +24,7 @@ AppHype Unity Android Plugin
 
 # To use AppHype SDK in your existing Android Unity Application
 
-__1.__ [DownLoad Unity Android SDK] (https://github.com/VishnuGShephertz/AppHype-Unity-SDK/tree/AppHypeUnity-Versio1.0/archive/master.zip)
+__1.__ [DownLoad Unity Android SDK] (https://github.com/VishnuGShephertz/AppHype-Unity-SDK/archive/AppHypeUnity-Versio1.0.zip)
 
 __2.__ Click on Assets and import AppHype Unity package in your unity Application
 
