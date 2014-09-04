@@ -17,7 +17,7 @@ AppHype Unity Android Plugin
 6. [DownLoad Unity Android SDK] (https://github.com/VishnuGShephertz/AppHype-Unity-SDK/archive/AppHypeUnity-Versio1.0.zip) with Sample Application.
 7. Import AppHype Unity Package in your Unity project
 8. Change package name of Sample Application under plugins/Android folder and bundleIdentifier in player settings option with your application package name created in step 4. 
-9. Put your API and Secret Key of the App created in step 4 in plugins/AppHype/Demo/AppHypeSample.cs file no 66 and 67.
+9. Put your API and Secret Key of the App created in step 4 in plugins/AppHype/Demo/AppHypeSample.cs file at line no 66 and 67.
 10. Add AppHypeSample.cs file on MainCamera if not added.
 11. Build your Unity Android application and install it in your device
 12. Click on Load button of sample application, you will get the ad of the App(s) created in step 2
